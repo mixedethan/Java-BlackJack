@@ -6,6 +6,8 @@ import java.util.List;
 
 // TODO: Add visual cards that displays as you draw them.
 // TODO: Clean up code and make it even more efficient
+// TODO: Add cleaner transition between games
+// TODO: Make visual cards display side by side rather than up and down
 
 
 public class Blackjack {
@@ -114,6 +116,9 @@ public class Blackjack {
                                     System.out.println();
                                 }
                             }
+
+                            // System.out.println("Would you like to continue? ");
+
 
                         }
 
